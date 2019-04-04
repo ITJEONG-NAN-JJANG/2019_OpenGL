@@ -3,7 +3,7 @@
 ## Part 1 OpenGL 기초
 
 ### CHAPTER 01 소개
-#### [CHAPTER 01 md](https://github.com/ITJEONG-NAN-JJANG/2019_OpenGL/blob/20190404/CHAPTER01.md)
+#### [CHAPTER 01 md](./CHAPTER01.md)
 <BR>
 ### CHAPTER 02 나의 첫 번째 OpenGL 프로그램
 <BR>
