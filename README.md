@@ -6,6 +6,7 @@
 #### [CHAPTER 01 md](./CHAPTER01.md)
 <BR>
 ### CHAPTER 02 나의 첫 번째 OpenGL 프로그램
+#### [2.1 간단한 애플리케이션 작성하기](./CHAPTER02/2.1.md)
 <BR>
 ### CHAPTER 03 파이프라인 따라가기
 <BR>
