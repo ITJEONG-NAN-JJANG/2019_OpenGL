@@ -1,0 +1,14 @@
+﻿  gl3w.c
+  sb6.cpp
+f:\github\2019_opengl\sb6code-master\include\sb6.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+f:\github\2019_opengl\sb6code-master\include\sb6ext.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  sb6ktx.cpp
+f:\github\2019_opengl\sb6code-master\src\sb6\sb6ktx.cpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  sb6object.cpp
+f:\github\2019_opengl\sb6code-master\src\sb6\sb6object.cpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+f:\github\2019_opengl\sb6code-master\include\object.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+f:\github\2019_opengl\sb6code-master\include\sb6mfile.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  sb6shader.cpp
+f:\github\2019_opengl\sb6code-master\src\sb6\sb6shader.cpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  코드를 생성하고 있습니다...
+  sb6_vs2013.vcxproj -> F:\github\2019_OpenGL\sb6code-master\lib\sb6_d32.lib

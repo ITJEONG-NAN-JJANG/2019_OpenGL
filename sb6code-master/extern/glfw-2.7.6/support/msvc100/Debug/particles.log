@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 중간 디렉터리(Debug\)에 다른 프로젝트(accuracy.vcxproj, boing.vcxproj, defaults.vcxproj, dynamic.vcxproj, events.vcxproj, fsaa.vcxproj, fsinput.vcxproj, gears.vcxproj, heightmap.vcxproj, iconify.vcxproj, joysticks.vcxproj, listmodes.vcxproj, mipmaps.vcxproj, mtbench.vcxproj, mthello.vcxproj, peter.vcxproj, pong3d.vcxproj, reopen.vcxproj, splitview.vcxproj, tearing.vcxproj, triangle.vcxproj, version.vcxproj, wave.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  particles.c
+  particles.vcxproj -> F:\github\2019_OpenGL\sb6code-master\extern\glfw-2.7.6\support\msvc100\..\..\examples\particles_debug.exe

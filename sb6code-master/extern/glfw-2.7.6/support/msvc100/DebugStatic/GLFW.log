@@ -1,0 +1,28 @@
+﻿  enable.c
+  fullscreen.c
+  glext.c
+  image.c
+  init.c
+  input.c
+  joystick.c
+  stream.c
+  tga.c
+  thread.c
+  time.c
+  win32_dllmain.c
+  win32_enable.c
+  win32_fullscreen.c
+  win32_glext.c
+  win32_init.c
+f:\github\2019_opengl\sb6code-master\extern\glfw-2.7.6\lib\win32\win32_init.c(237): warning C4996: 'GetVersionExA': deprecated로 선언되었습니다.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\sysinfoapi.h(436): note: 'GetVersionExA' 선언을 참조하십시오.
+  win32_joystick.c
+  win32_thread.c
+  win32_time.c
+  win32_window.c
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  window.c
+  코드를 생성하고 있습니다...
+win32_dllmain.obj : warning LNK4221: 이 개체 파일은 이전에 정의되지 않은 공용 기호를 정의하지 않으므로 이 라이브러리를 사용하는 어떠한 링크 작업에도 사용되지 않습니다.
+  GLFW.vcxproj -> F:\github\2019_OpenGL\sb6code-master\extern\glfw-2.7.6\support\msvc100\Debug\GLFW.lib

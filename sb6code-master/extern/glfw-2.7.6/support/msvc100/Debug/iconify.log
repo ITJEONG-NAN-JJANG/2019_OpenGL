@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 중간 디렉터리(Debug\)에 다른 프로젝트(accuracy.vcxproj, boing.vcxproj, defaults.vcxproj, dynamic.vcxproj, events.vcxproj, fsaa.vcxproj, fsinput.vcxproj, gears.vcxproj, heightmap.vcxproj, joysticks.vcxproj, listmodes.vcxproj, mipmaps.vcxproj, mtbench.vcxproj, mthello.vcxproj, particles.vcxproj, peter.vcxproj, pong3d.vcxproj, reopen.vcxproj, splitview.vcxproj, tearing.vcxproj, triangle.vcxproj, version.vcxproj, wave.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  getopt.c
+f:\github\2019_opengl\sb6code-master\extern\glfw-2.7.6\tests\getopt.c(146): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(1199): note: 'getenv' 선언을 참조하십시오.
+  iconify.c
+  코드를 생성하고 있습니다...
+  iconify.vcxproj -> F:\github\2019_OpenGL\sb6code-master\extern\glfw-2.7.6\support\msvc100\..\..\tests\iconify_debug.exe
